@@ -16,7 +16,8 @@ export const Editor = () => {
     "```\nconst codeBlock = () => {\n\tconst var;\n\treturn ans;\n}\n```";
   const listItem = "- List Item \n\t - Indented List Item";
   const blockQuote = "> Block quote!";
-  const image = "![Image Caption]()";
+  const image =
+    "![Alt text](https://i.pinimg.com/originals/32/e2/41/32e2413585f1d2e0333c7dee3c4808bf.jpg)";
   const boldedText = "**Bolded Text**";
   const italicText = "_Italic Text_";
   const defaultString =
